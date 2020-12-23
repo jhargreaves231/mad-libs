@@ -13,9 +13,13 @@ _This is a single-input form on a webpage where users can type in a number. This
 * _https://jhargreaves231.github.io/Programming-Language-Suggester/_
 * _Double click the link provided above and the form will appear on your web browser. Next, fill out the form input asking for a number and you will be provided a list of values_
 
-Describe: beepBoop()
-Test: "It should return an array with a 0 if the number 0 is inputted"
-Expect(beepBoop(0).toEqual([0]);
+Describe: numberArray()
+Test: "It will create an array that count up to the number inputed starting with 0."
+Expect(numberArray(3).toEqual([0, 1, 2, 3]);
+
+Describe: zArray()
+Test: "It will create replacement text for certain numbers."
+Expect(zArray().replace("32", "Won't you be my neighbor?").replace("21", "Boop").replace("13", "Won't you be my neighbor?").replace(/[1]/gi, "Beep").replace(/[2]/gi, "Boop").replace(/[3]/gi, "Won't you be my neighbor?")
 
 
 
