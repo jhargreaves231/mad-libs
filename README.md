@@ -1,6 +1,6 @@
 # _Jordan Hargreaves Arrays and Looping_
 
-#### _,Arrays and Looping 12.21.2020_
+#### _Arrays and Looping 12.21.2020_
 
 #### By _**Jordan Hargreaves**_
 
