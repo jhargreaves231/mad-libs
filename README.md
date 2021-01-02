@@ -10,8 +10,8 @@ _This is a single-input form on a webpage where users can type in a number. This
 
 ## Setup/Installation Requirements
 
-* _https://jhargreaves231.github.io/Programming-Language-Suggester/_
-* _Double click the link provided above and the form will appear on your web browser. Next, fill out the form input asking for a number and you will be provided a list of values_
+* _https://github.com/jhargreaves231/arrays-and-looping.git_
+* _Double click the link provided above and the form will appear on your web browser. Next, fill out the form input asking for a number and you will be provided text based on your input._
 
 Describe: numberArray()
 Test: "It will create an array that count up to the number inputed starting with 0."
